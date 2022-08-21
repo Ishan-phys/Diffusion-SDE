@@ -48,3 +48,5 @@ Generate the samples from the trained model with the `.generate_samples()` metho
 # Generate samples from the trained model
 cls_diff.generate_samples(n_steps)
 ```
+
+<img src="assets/noise2horse.png" alt="noise to horse" width=500>
