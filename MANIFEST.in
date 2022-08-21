@@ -1,0 +1,11 @@
+# Requirements
+include requirements*.txt
+
+# Include license, Readme, etc.
+include LICENSE
+include *.md
+include *.toml
+
+# Exclude the assets
+exclude assets
+recursive-exclude assets *
