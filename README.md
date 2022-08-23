@@ -3,6 +3,7 @@
 
 [![PyPI version](https://badge.fury.io/py/diffusion_sde.svg)](https://badge.fury.io/py/diffusion_sde)
 ![License](https://img.shields.io/github/license/Ishan-phys/Diffusion-SDE)
+![Release Version](https://img.shields.io/github/v/release/Ishan-Phys/Diffusion-SDE)
 
 Synthesize new images using the score-based generative models.
 
