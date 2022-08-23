@@ -1,5 +1,9 @@
 # Diffusion SDE - A score-based generative modelling with SDEs package
 
+
+[![PyPI version](https://badge.fury.io/py/diffusion_sde.svg)](https://badge.fury.io/py/diffusion_sde)
+![License](https://img.shields.io/github/license/Ishan-phys/Diffusion-SDE)
+
 Synthesize new images using the score-based generative models.
 
 # Installation
