@@ -55,3 +55,6 @@ cls_diff.generate_samples(n_steps)
 ```
 
 <img src="assets/noise2horse.png" alt="noise to horse" width=500>
+
+Pretrained model can be loaded to generate new samples on Google Colab 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jLYeKW_dZI6SLZyzrUPbiw5sd6dOVzlE?usp=sharing)
